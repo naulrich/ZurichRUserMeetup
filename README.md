@@ -9,3 +9,6 @@ This repo contains:
 
 regards,
 Nadja
+
+
+PS: Remark - for simplicity reasons, I added the JSON files for the demo as well. They're not too big though.
